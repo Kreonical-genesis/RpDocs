@@ -25,36 +25,36 @@ export default defineConfig({
           {
             text: "Atlases",
             items: [
-              { text: "Основа", link: "/atlases/main" },
+              { text: "Основа", link: "/en/atlases/main" },
             ],
           },
           {
             text: "BlockStates",
             items: [
-              { text: "Основа", link: "/blockstates/main" },
+              { text: "Основа", link: "/en/blockstates/main" },
             ],
           },
           {
             text: "Equipment",
             items: [
-              { text: "Основа", link: "/equipment/main" },
+              { text: "Основа", link: "/en/equipment/main" },
             ],
           },
           {
             text: "Font",
             items: [
-              { text: "Основа", link: "/font/main" },
+              { text: "Основа", link: "/en/font/main" },
             ],
           },
           {
             text: "Items",
             items: [
-              { text: "Основа", link: "/items/main" },
+              { text: "Основа", link: "/en/items/main" },
               {
                 text: "Types",
                 items: [
-                  { text: "Основа", link: "/items/main" },
-                  { text: "Общее", link: "/items/main" },
+                  { text: "Основа", link: "/en/items/main" },
+                  { text: "Общее", link: "/en/items/main" },
                 ],
               },
             ],
@@ -62,55 +62,55 @@ export default defineConfig({
           {
             text: "Lang",
             items: [
-              { text: "Основа", link: "/lang/main" },
+              { text: "Основа", link: "/en/lang/main" },
             ],
           },
           {
             text: "Models",
             items: [
-              { text: "Основа", link: "/models/main" },
+              { text: "Основа", link: "/en/models/main" },
             ],
           },
           {
             text: "Particles",
             items: [
-              { text: "Основа", link: "/particles/main" },
+              { text: "Основа", link: "/en/particles/main" },
             ],
           },
           {
             text: "post_effect",
             items: [
-              { text: "Основа", link: "/post_effect/main" },
+              { text: "Основа", link: "/en/post_effect/main" },
             ],
           },
           {
             text: "Shaders",
             items: [
-              { text: "Основа", link: "/shader/main" },
+              { text: "Основа", link: "/en/shader/main" },
             ],
           },
           {
             text: "Sounds",
             items: [
-              { text: "Основа", link: "/sounds/main" },
+              { text: "Основа", link: "/en/sounds/main" },
             ],
           },
           {
             text: "Texts",
             items: [
-              { text: "Основа", link: "/texts/main" },
+              { text: "Основа", link: "/en/texts/main" },
             ],
           },
           {
             text: "Textures",
             items: [
-              { text: "Основа", link: "/textures/main" },
+              { text: "Основа", link: "/en/textures/main" },
             ],
           },
           {
             text: "waypoint_style",
             items: [
-              { text: "Основа", link: "/waypoint_style/main" },
+              { text: "Основа", link: "/en/waypoint_style/main" },
             ],
           },
         ],
